@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Joseph Estrada",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.9.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.17.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "csv-parse": "^1.1.1",
+    "express": "^4.15.2",
+    "hjs": "0.0.6",
+    "knex": "^0.11.7",
+    "method-override": "^2.3.8",
+    "mongoose": "^4.9.7",
+    "morgan": "^1.8.1",
+    "mysql": "^2.11.1",
+    "nonce": "^1.0.4",
+    "query-string": "^4.1.0",
+    "request": "^2.72.0",
+    "shopify-node-api": "^1.8.0",
+    "xml2js": "^0.4.16"
+  }
+}

@@ -1,0 +1,17 @@
+node_modules
+public
+.tmp
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
+npm-debug.log
+coverage
+/secrets
+local.env.js
+nodemailercode.js
+Shopify.js
+install.js
+finish_auth.js
+/config/mws.js
+/console notes
